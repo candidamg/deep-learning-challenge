@@ -28,5 +28,5 @@ Two layers were used for the model, the first layer was 6, and the second layer 
 
 This to obtain an accuracy of at least 75% or more, an optimization file was created with three move attempts. The process was the same for these modules up to the hidden layer values. 
 
-A 78% accuracy was obtained in the 2nd attempt of the model. ![attempt2](accuracy_attempt2.png)
+A 78% accuracy was obtained in the 2nd attempt of the model. ![attempt2](accuracy_attempt2.PNG)
 For this model we only implemented 2 hidden layers. The first layer had 8 units and the second layer 2. Left the output layer as 1 unit. The results from the attempted modules can be found in 'AlphabetSoupCharity_Optimization(h5)'.
